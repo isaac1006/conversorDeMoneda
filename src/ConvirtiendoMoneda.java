@@ -1,5 +1,5 @@
 import java.util.Map;
-public class ConversorModena {
+public class ConvirtiendoMoneda {
     // creo meotodo para optener la taza de cambio //
 
     private OptenerMoneda obtenerDatosTasasDeCambio(String monedaBase) {
